@@ -9,6 +9,9 @@ The keyword DATE and TIME will automatically copy in the current date and time w
 
 Attention!!
 you have to run the following commands in the command line, before the program can work:
+
 pip install PyQt5
+
 pip install pynput
+
 pip install pyperclip
